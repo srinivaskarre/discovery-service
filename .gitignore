@@ -1,1 +1,35 @@
-.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_ecr_1_11_18.xml
+# eclipselink jpa file
+output.log
+log
+*.log
+
+IntelliJ #class files in same directory
+out/
+
+#eclipse files
+.settings
+.project
+.classpath
+.springBeans
+
+#ideaJ files
+**/*.idea
+**/*.iml
+
+# Gradle temp files
+.gradle
+
+# Gradle build folder
+build
+.mvn
+target
+# Eclipse output folder
+bin
+
+# Generated files by Testng
+/test-output
+
+# Other
+.DS_Store
+.checkstyle
+
